@@ -1,0 +1,6 @@
+{
+  "name": "Waaris - Estate & Succession AI Agent",
+  "description": "AI agent that helps families claim a deceased person's bank accounts, manage estate documents, and visualize succession requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
